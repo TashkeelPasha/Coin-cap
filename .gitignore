@@ -1,0 +1,63 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android related
+appcenter-post-clone.sh
+android/.gradle/
+android/app/build/
+android/local.properties
+android/.idea
+android/key.properties
+
+# iOS related
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/.generated/
+ios/.idea/
+
+# VSCode/IntelliJ related
+.vscode/
+.idea/
+*.iml
+
+# Obfuscation artifacts
+.obf/
+
+# Miscellaneous
+*.log
+*.lock
+*.DS_Store
+*.pdb
+*.pds
+*.pid
+*.seed
+*.seed[]
+*.swp
+*.swo
+
+# Generated files
+*.dart.js
+*.dart.js.deps
+*.dart.js.map
+*.info.json
+
+# Environment files
+.env
+.env.*
+
+# Flutter specific user settings
+.flutter/
+
+# macOS related
+macos/Flutter/ephemeral/
+macos/Pods/
