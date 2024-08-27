@@ -12,6 +12,10 @@ A Flutter application that provides real-time cryptocurrency information using t
 
 
 
+https://github.com/user-attachments/assets/e2d04efe-1382-4a5f-9254-f80fa7495098
+
+
+
 
 ## Getting Started
 
